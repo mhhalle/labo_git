@@ -5,7 +5,7 @@ Complété la liste, les réponses se trouvent dans des commit antérieurs
     Liste de Livre: 1. 
                     2.
                     3.
-                    4. Smalltalk Best Practice Patterns
+                    4.
 
 
 Un animal se trouve dans le commit _ , Récuperer le avec la commande `git cherry-pick`
