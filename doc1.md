@@ -3,8 +3,8 @@
 Complété la liste, les réponses se trouvent dans des commit antérieurs
 
     Liste de Livre: 1. 
-                    2. Clean Code
-                    3.
+                    2.
+                    3. Code Complete
                     4.
 
 
